@@ -1,0 +1,40 @@
+<!-- ............自定义首部代码开始............ -->
+<!-- 自定义进度条 -->
+<div id="myProgressBar"></div>
+
+<!-- 自定义导航条 -->
+<div id="mynavbar">
+    <div style="position:relative;width:65pc;height:70px;margin:0 auto;">
+        <a style="width: auto;height: 22px;margin-left: 25px;" href="https://www.cnblogs.com/humiao-0626/">
+            <img style="width: auto;height: 22px;outline: 0;margin-top: 25px;" src="http://tx.haiqq.com/uploads/allimg/170920/09145QX9-0-lp.jpg">
+        </a>
+        <div id="mynavbar_menu">
+            <a href="https://www.cnblogs.com/humiao-0626/">首页</a>
+            <a href="https://msg.cnblogs.com/send/humiao-0626">联系</a>
+            <a href="https://github.com/humiao1993">Github</a>
+            <a href="https://home.cnblogs.com/u/humiao-0626/">四点</a>
+            <a href="https://www.cnblogs.com/">博客园</a>
+        </div>
+    </div>
+</div>
+
+<!-- 自定义头部锚点 -->
+<a name="mtop"></a>
+
+<!-- 自定义头部 -->
+<div id="myheader">
+    <!-- 背景图片 -->
+    <div id="myheader_bg"></div>
+    <!-- 遮罩层 -->
+    <div id="myheader_cover" title="点我点我">
+        <!-- 博客标题 -->
+        <div id="mypost_title">
+            <div id="mypost_title_h" style="font-weight: 500;font-size: 21px;">四点</div>
+            <div id="mypost_title_f">只想做一个在当地颇为勤奋的青年</div>
+            <div id="mypost_title_e">
+                <a href="ttps://www.cnblogs.com/humiao-0626/" style="">只想做一个在当地颇为勤奋的青年</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ............自定义首部代码结束............ -->
